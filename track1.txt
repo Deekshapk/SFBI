@@ -1,1 +1,3 @@
 hello git learner
+
+git init is the first command to initialize your repository
